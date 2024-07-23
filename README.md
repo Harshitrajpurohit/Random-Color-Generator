@@ -7,9 +7,9 @@ Welcome to the Random Color Generator! This simple web tool allows you to genera
 3. Copy the color code to clipboard for easy use
 
 ## **Key Features**
-**Instant Color Generation**: Generate random colors with a single click. See the color displayed instantly along with its hex and RGBA values. <br>
-**Clipboard Integration**: Easily copy the generated color code to your clipboard for use in your design projects or to share with others. <br>
-**Web-Based Convenience**: Access the Random Color Generator directly from your web browser without any installations or downloads. Simply visit our site and start generating colors. <br>
+1. **Instant Color Generation**: Generate random colors with a single click. See the color displayed instantly along with its hex and RGBA values. <br>
+2. **Clipboard Integration**: Easily copy the generated color code to your clipboard for use in your design projects or to share with others. <br>
+3. **Web-Based Convenience**: Access the Random Color Generator directly from your web browser without any installations or downloads. Simply visit our site and start generating colors. <br>
 
 ## **Main Image**: <br>
 
